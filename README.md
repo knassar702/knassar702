@@ -15,7 +15,7 @@ import time
 about_me = {
   'Name':'Khaled Nassar',
   'Nickname':'knassar702',
-  'Age':17
+  'Age':17,
   'favorite programming language':'Python',
   'i love':'my cat 🐈'
 }
