@@ -22,7 +22,7 @@ about_me = {
 
 def main():
   for t,i in about_me.items():
-    time.sleep(0.002)
+    time.sleep(0.2)
     print(f'{t}: {i}')
   print('\nBye ;D')
 if __name__ == '__main__':
