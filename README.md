@@ -1,7 +1,7 @@
 <h2> Hi, I'm Khaled :D</h2>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=knassar702&show_icons=true" width="380">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knassar702&exclude_repo=knassar702.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/ualehosaini)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knassar702&exclude_repo=knassar702.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/knassar702)
 * Bug hunter 🕷
 * CTF Creator 🚩🛡 
 * Python & Ring developer 🐍💍
