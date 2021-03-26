@@ -3,7 +3,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knassar702&exclude_repo=knassar702.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/knassar702)
 * Bug hunter 🕷
-* CTF Creator 🚩🛡 
 * Python Developer 🐍
 
 
