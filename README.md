@@ -20,7 +20,8 @@ about_me = {
   'Name':'Khaled Nassar',
   'Nickname':'knassar702',
   'Age':18,
-  'i love':'my cat 🐈'
+  'i love':'my cat 🐈',
+  'msg for u': 'Better days are near. Hope is much stronger than fear 😊❤️'
 }
 
 def main():
