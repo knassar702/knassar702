@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=knassar702&exclude_repo=knassar702.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/knassar702)
 * Bug hunter 🕷
-* Python Developer 🐍
+* Web Developer
 
 
 [![Twitter: knassar702](https://img.shields.io/twitter/follow/knassar702?style=flat-square)](https://twitter.com/knassar702)
