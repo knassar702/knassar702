@@ -21,7 +21,8 @@ import time
 about_me = {
   'Name':'Khaled Nassar',
   'Nickname':'knassar702',
-  'Age':18,
+  'age':18,
+  'mail':'knassar702@gmail.com',
   'i love':'my cat 🐈',
   'msg for u': 'Better days are near. Hope is much stronger than fear 😊❤️'
 }
