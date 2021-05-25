@@ -10,7 +10,7 @@
 
 <h5>
 Hey, I'm Khaled or another Geek in our World <br>
-I love programming, hacking, Linux, and anything about computers
+I love programming, hacking, Linux, and anything about computers & i write some posts about programming here <a href='https://dev.to/knassar702'>@knassar702</a>
 </h5>
 </em></p>
 
