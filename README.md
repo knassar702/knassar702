@@ -3,8 +3,12 @@
 [![Twitter: knassar702](https://img.shields.io/twitter/follow/knassar702?style=flat-square)](https://twitter.com/knassar702)
 [![Paypal knassar702](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/knassar702)
 
+  ![trophy](https://github-profile-trophy.vercel.app/?username=knassar702)
+
+  
   <img align='left' src="https://github-readme-stats.vercel.app/api?username=knassar702&show_icons=true&theme=dark" width="320">
 <img align="righ" width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=knassar702&exclude_repo=knassar702.github.io,free-for-dev&layout=compact&langs_count=8">
+
 
 </h1>
 
