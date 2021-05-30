@@ -1,4 +1,4 @@
-<h1 align="center"> {- MAKE YOUR OWN ART BY CODING -}
+<h1 align="center"> {- Do one Thing and Do It Well -}
   
 [![Twitter: knassar702](https://img.shields.io/twitter/follow/knassar702?style=flat-square)](https://twitter.com/knassar702)
 [![Paypal knassar702](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/knassar702)
