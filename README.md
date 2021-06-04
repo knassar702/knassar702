@@ -10,7 +10,7 @@ I love programming, hacking, Linux, and anything about computers
 * 📚 Dev.to: https://dev.to/knassar702
 * 🕷️ HackerOne: https://hackerone.com/floppahack
 * 🙋 Support: https://paypal.me/knassar702
-# 🔨 Tools/Frameworks i use
+# 🛠 Tools/Frameworks i use
 ### web Development
 * Flask
 * Express
