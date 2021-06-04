@@ -15,12 +15,12 @@ I love programming, hacking, Linux, and anything about computers
 ### web Development
 * Flask
 * Express
-* Monogdb
 * React
-* Linux
+* Monogdb
 * MySQL
 * Docker
 * Git
+* Linux/*nix
 
 ### personal workflow
 * OS: Void Linux
