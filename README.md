@@ -16,11 +16,11 @@ I love programming, hacking, Linux, and anything about computers
 * Flask
 * Express
 * Monogdb
-* Nodejs
 * React
 * Linux
 * MySQL
 * Docker
+* Git
 
 ### personal workflow
 * OS: Void Linux
