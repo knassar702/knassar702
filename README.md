@@ -11,7 +11,7 @@ I love programming, hacking, Linux, and anything about computers
 * 🕷️ HackerOne: https://hackerone.com/floppahack
 * 🙋 Support: https://paypal.me/knassar702
 # 🔨 Tools/Frameworks i use
-### as web Developer
+### web Development
 * Flask
 * Express
 * Monogdb
