@@ -15,7 +15,6 @@ I love programming, hacking, Linux, and anything about computers
 ### web Development
 * Flask
 * Express
-* React
 * Monogdb
 * MySQL
 * Docker
@@ -27,6 +26,11 @@ I love programming, hacking, Linux, and anything about computers
 * Window Manager: DWM
 * Text Editor: VIM
 * Terminal: Terminator
+
+### Learning
+* ReactJS
+* Linux from scratch
+* Russian Language
 ---
 
 
