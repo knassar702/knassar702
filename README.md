@@ -34,4 +34,4 @@ I love programming, hacking, Linux, and anything about computers
 ---
 
 
-<img src="https://media.giphy.com/media/48FhEMYGWji8/source.gif"> 
+<img src="https://media0.giphy.com/media/3oEduLRlHYWFNWNkTC/giphy.gif?cid=ecf05e47dbytu0j58ethz45cnd06r31yt95f1yycsw9wc0m7&rid=giphy.gif&ct=g"> 
