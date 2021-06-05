@@ -22,15 +22,15 @@ I love programming, hacking, Linux, and anything about computers
 * Linux/*nix
 
 ### personal workflow
-* OS: Void Linux
-* Window Manager: DWM
-* Text Editor: VIM
-* Terminal: Terminator
+* OS: [Void Linux](https://voidlinux.org)
+* Window Manager: [DWM](https://github.com/knassar702/dwm)
+* Text Editor: [VIM](https://gist.github.com/knassar702/93ddc4f18698cbdbc91d0f9ad16c32f2)
+* Terminal: [Terminator](https://github.com/gnome-terminator/terminator)
 
 ### Learning
-* ReactJS
-* Linux from scratch
-* Russian Language
+* ⚛️ ReactJS
+* 🐧 Linux from scratch
+* 🇷🇺 Russian Language
 ---
 
 
