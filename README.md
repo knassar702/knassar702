@@ -11,7 +11,7 @@ I love programming, hacking, Linux, and anything about computers
 * 🤔 LeetCode: https://leetcode.com/knassar702
 * 🕷️ HackerOne: https://hackerone.com/floppahack
 * 🙋 Support: https://paypal.me/knassar702
-* 📧 Email: knassar702@gmail.com
+* 📧 Email: knassar702@protonmail.com
 # 🛠 Tools/Frameworks i use
 ### web Development
 * Flask
