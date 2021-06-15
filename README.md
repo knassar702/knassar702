@@ -27,7 +27,7 @@ I love programming, hacking, Linux, and anything about computers
 * Window Manager: [DWM](https://github.com/knassar702/dwm)
 * Text Editor: [VIM](https://gist.github.com/knassar702/93ddc4f18698cbdbc91d0f9ad16c32f2)
 * Terminal: [Terminator](https://github.com/gnome-terminator/terminator)
-
+* SHELL: [ZSH](https://ohmyz.sh/)
 ### Learning
 * ⚛️ ReactJS
 * 🐧 Linux from scratch
