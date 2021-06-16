@@ -16,6 +16,7 @@ I love programming, hacking, Linux, and anything about computers
 ### web Development
 * Flask
 * Express
+* ReactJS
 * Monogdb
 * MySQL
 * Docker
@@ -29,9 +30,8 @@ I love programming, hacking, Linux, and anything about computers
 * Terminal: [Terminator](https://github.com/gnome-terminator/terminator)
 * SHELL: [ZSH](https://ohmyz.sh/)
 ### Learning
-* ⚛️ ReactJS
 * 🐧 Linux from scratch
-* 🇷🇺 Russian Language
+* 🇷🇺 Russian Language 
 ---
 
 
