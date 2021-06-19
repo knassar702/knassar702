@@ -16,7 +16,6 @@ I love programming, hacking, Linux, and anything about computers
 ### web Development
 * Flask
 * Express
-* ReactJS
 * Monogdb
 * MySQL
 * Docker
@@ -30,8 +29,9 @@ I love programming, hacking, Linux, and anything about computers
 * Terminal: [ST](https://st.suckless.org)
 * SHELL: [ZSH](https://ohmyz.sh/)
 ### Learning
-* 🐧 Linux from scratch
+* 🐧 Linux from scratch 
 * 🇷🇺 Russian Language 
+* ReactJS
 ---
 
 
