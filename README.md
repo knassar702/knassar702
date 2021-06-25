@@ -26,7 +26,7 @@ I love programming, hacking, Linux, and anything about computers
 * OS: [Void Linux](https://voidlinux.org/)
 * Window Manager: [DWM](https://github.com/knassar702/dwm)
 * Text Editor: [VIM](https://github.com/knassar702/dotfiles/blob/master/.vimrc)
-* Terminal: [ST](https://st.suckless.org)
+* Terminal: [KITTY](https://sw.kovidgoyal.net/kitty/)
 * SHELL: [ZSH](https://ohmyz.sh/)
 ### Learning
 * 🐧 Linux from scratch 
