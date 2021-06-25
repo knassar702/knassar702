@@ -31,7 +31,6 @@ I love programming, hacking, Linux, and anything about computers
 ### Learning
 * 🐧 Linux from scratch 
 * 🇷🇺 Russian Language 
-* ReactJS
 ---
 
 
