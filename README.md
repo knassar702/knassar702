@@ -14,6 +14,8 @@ I love programming, hacking, Linux, and anything about computers
 * 📧 Email: knassar702@protonmail.com
 # 🛠 Tools/Frameworks i use
 ### web Development
+* Python
+* Node.js
 * Flask
 * Express
 * Monogdb
