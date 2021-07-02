@@ -29,7 +29,7 @@ I love programming, hacking, Linux, and anything about computers
 * Window Manager: [DWM](https://github.com/knassar702/dwm)
 * Text Editor: [VIM](https://github.com/knassar702/dotfiles/blob/master/.vimrc)
 * Terminal: [ST](https://st.suckless.org)
-* SHELL: [Fish](https://fishshell.com/)
+* SHELL: [zsh](https://www.zsh.org/)
 ### Learning
 * 🐧 Linux from scratch 
 * 🇷🇺 Russian Language 
