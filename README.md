@@ -1,8 +1,7 @@
 #  👨‍💻 About me
 
 Hey, I'm Khaled (18 y.o)<br>
-I love programming, hacking, Linux, and anything about computers
-
+I am a lazy and enthusiastic person who loves [ programming, hacking, Linux, anything about computers ] , currently im a back-end developr at the morining and Bug bounty hunter at the evening (one day of week for bug hunting i always sleeeeeeep)
 
 # 🧐 Find Me
 * 💻 Website: [knassar702.github.io](https://knassar702.github.io)
@@ -24,7 +23,8 @@ I love programming, hacking, Linux, and anything about computers
 * Git
 * Linux/*nix
 
-### personal workflow
+### personal workflow 
+> IDK why i added this list
 * OS: [Artix Linux](https://artixlinux.org/)
 * Window Manager: [DWM](https://github.com/knassar702/dwm)
 * Text Editor: [VIM](https://github.com/knassar702/dotfiles/blob/master/.vimrc)
