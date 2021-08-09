@@ -32,6 +32,7 @@ I am a lazy and enthusiastic person who loves [ programming, hacking, Linux, any
 * SHELL: [zsh](https://www.zsh.org/)
 ### Learning
 * 🐧 Linux from scratch 
+* 👑 Nim Programming Langauge
 * 🇷🇺 Russian Language 
 ---
 
