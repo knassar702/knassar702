@@ -1,7 +1,7 @@
 #  👨‍💻 About me
 
 Hey, I'm Khaled (18 y.o)<br>
-I am a lazy and enthusiastic person who loves [ programming, hacking, Linux, anything about computers ] , currently im a back-end developr at the morining and Bug bounty hunter at the evening (one day of week for bug hunting i always sleeeeeeep)
+I am a lazy and enthusiastic person who loves [ programming, hacking, Linux, anything about computers ] , currently im a back-end developer at the morining and Bug bounty hunter at the evening (one day of week for bug hunting i always sleeeeeeep)
 
 # 🧐 Find Me
 * 💻 Website: [knassar702.github.io](https://knassar702.github.io)
