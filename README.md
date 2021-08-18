@@ -28,7 +28,7 @@ I am a lazy and enthusiastic person who loves [ programming, hacking, Linux, any
 * OS: [Artix Linux](https://artixlinux.org/)
 * Window Manager: [DWM](https://github.com/knassar702/dwm)
 * Text Editor: [VIM](https://github.com/knassar702/dotfiles/blob/master/.vimrc)
-* Terminal: [ST](https://st.suckless.org)
+* Terminal: [ST](https://st.suckless.org) >> with vim browse patch
 * SHELL: [zsh](https://www.zsh.org/)
 ### Learning
 * 🐧 Linux from scratch 
