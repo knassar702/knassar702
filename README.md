@@ -31,7 +31,6 @@ I am a lazy and enthusiastic person who loves [ programming, hacking, Linux, any
 * Terminal: [ST](https://st.suckless.org) >> with vim browse patch
 * SHELL: [zsh](https://www.zsh.org/)
 ### Learning
-* 🐧 Linux from scratch 
 * 👑 Nim Programming Langauge
 * 🇷🇺 Russian Language 
 ---
