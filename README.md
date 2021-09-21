@@ -7,7 +7,6 @@ I am a lazy and enthusiastic person who loves [ programming, hacking, Linux, any
 * 💻 Website: [knassar702.github.io](https://knassar702.github.io)
 * 🐦 Twitter: [@knassar702](https://twitter.com/knassar702)
 * 📚 Dev.to: https://dev.to/knassar702
-* 👔 Linkedin: https://www.linkedin.com/in/knassar702/
 * 🤔 LeetCode: https://leetcode.com/knassar702
 * 🕷️ HackerOne: https://hackerone.com/floppahack
 * 💸 Support: https://paypal.me/knassar702
