@@ -2,7 +2,6 @@
 #  👨‍💻 About me
 
 Hey, I'm Khaled <br>
-I am a lazy and enthusiastic person who loves [ programming, hacking, Linux, anything about computers ], currently, I'm a backend developer in the morning and Bug bounty hunter in the evening (one day of the week for bug hunting I always sleeeeeeep)
 
 # 🧐 Find Me
 * 💻 Website: [knassar702.github.io](https://knassar702.github.io)
