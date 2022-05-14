@@ -7,6 +7,7 @@
 * Email: knassar702@gmail.com
 * My Links: https://linktr.ee/knassar702
 * Working on : https://github.com/knassar702/scant3r/discussions/49
+* Discord: Didyoukn0w#5222
 
 
 ###  How Long I Code a Day
