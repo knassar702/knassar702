@@ -4,6 +4,7 @@
 * Tools: [Neovim](https://github.com/knassar702/vimrc) | [Void Linux](https://voidlinux.org/) 🐧 | [Alacritty](https://github.com/alacritty/alacritty)
 * Job title: Python developer | Part-time Bug bounty hunter
 * Email: knassar702@gmail.com
+* Blog: https://dev.to/knassar702
 * My Links: https://linktr.ee/knassar702
 
 
