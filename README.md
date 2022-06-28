@@ -1,6 +1,8 @@
 i'm writing some security automation tools here with Rust, Python :crab: :snake:
 
-do you have any project idea to do? <br>
+
+my working-on list: https://github.com/knassar702?tab=projects&type=beta <br> <br>
+do you have any project idea to add? <br>
 Email me: knassar702@gmail.com
 
 * my Links: https://linktr.ee/knassar702
