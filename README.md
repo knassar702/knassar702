@@ -1,8 +1,9 @@
 i'm writing some security automation tools here with Rust, Python :crab: :snake:
 
-* Email: knassar702@gmail.com
-* Blog: https://dev.to/knassar702
-* Another Links: https://linktr.ee/knassar702
+do you have any project idea to do? <br>
+Email me: knassar702@gmail.com
+
+* my Links: https://linktr.ee/knassar702
 
 
 <p align="center">
